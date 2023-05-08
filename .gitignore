@@ -1,0 +1,23 @@
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
+npm-debug.log
+
+# Coverage
+coverage
+
+# Distribution
+dist
+build
+out
+
+# Others
+.idea
+
+yarn.lock
