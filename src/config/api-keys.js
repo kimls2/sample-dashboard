@@ -1,10 +1,10 @@
 export const CONFIGURATION = {
   binance: {
-    key: '363fsUQSsP3qGKdFybLQnR1WXBRLPHxNOmVYJKzRGZm7ClQAZddWHRTFngEQtsxL',
-    secret: '88ToyghR98AvZCtyVkTuNPDOCDTHyG9WQWeYc4fExyc5hCKoXNH9G5HU7gxmAQzs',
+    key: 'CkmQJGmDF7WHk1rWKCA64BPHwIhFGLtvxnmCNQoG6w7bjDAMffRqB35E0x4ahJyx',
+    secret: 'wJLPDSbqSBHVobw4Fends8cK49ZufTYo3L21Vrcmev7aVmMRNa9Urnzm2Z6C2j2W',
     exchangeType: 'futures' // spot is not supported yet
   },
   profile: {
-    name: 'testing account 1k'
+    name: 'testing account'
   }
 };
